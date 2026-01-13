@@ -59,4 +59,23 @@ This project demonstrates practical frontend development skills, real applicatio
 ---
 
 ## 📁 Project Structure
+src/
+├── components/
+│ ├── Navbar.jsx
+│ ├── ProductCard.jsx
+│ └── Footer.jsx
+├── pages/
+│ ├── Help.jsx
+│ ├── About.jsx
+│ ├── Login.jsx
+│ ├── Checkout.jsx
+│ ├── ProductDetails.jsx
+│ └── NotFound.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
+
+public/
+└── images/
+
 
